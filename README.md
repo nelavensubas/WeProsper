@@ -1,4 +1,8 @@
-# Sample 01 - Logging In and Gated Content
+# WeProsper
+
+WeProsper is hackathon project that was created at DeltaHacks 6. The project helps connect low-income families and individuals with the services they need at the price they can afford.
+
+## Sample 01 - Logging In and Gated Content
 
 This sample demonstrates:
 
